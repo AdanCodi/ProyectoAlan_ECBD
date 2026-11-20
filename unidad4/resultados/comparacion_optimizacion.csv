@@ -1,0 +1,5 @@
+Modelo,Configuracion,Silhouette
+K-Means,Inicial: K=3,0.3372082630726892
+K-Means,Optimizado,0.4325090682404137
+DBSCAN,"Inicial: eps=0.5, min=5",0.2936712182669496
+DBSCAN,Optimizado,0.572415178462157
